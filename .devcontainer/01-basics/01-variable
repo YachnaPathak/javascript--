@@ -1,0 +1,5 @@
+const account=1234
+let accountemail="yachna@google.com"
+accountcity="jaipur";
+var accountpass="1234";
+console.table([account,accountemail,accountcity,accountpass]);
