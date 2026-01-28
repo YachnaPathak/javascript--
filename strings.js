@@ -1,0 +1,11 @@
+console.log("hello"+"world");
+const gamename=new String('hitesh');
+console.log(gamename[0]);
+console.log(gamename.__proto__);
+console.log(gamename.length);
+console.log(gamename.toUpperCase());
+console.log(gamename.charAt(2));
+const newstring=gamename.substring(0,4);
+console.log(newstring);
+const anotherstring=gamename.slice(-8,4);
+console.log(anotherstring);
